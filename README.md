@@ -19,4 +19,4 @@ Github pages link https://p15bala.github.io/D3js-uk-political-donations/full-viz
 
 `.on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor)});` 
 
-δίνοντας τη δυνατότητα με το πάτημα μιας μπάλας,να γίνεται αναζήτησης πληροφοριών του αντίστοιχου δωρητή στο Google.
+δίνοντας τη δυνατότητα με το πάτημα μιας μπάλας,να γίνεται αναζήτηση πληροφοριών του αντίστοιχου δωρητή στο Google.
