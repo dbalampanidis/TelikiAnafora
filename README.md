@@ -30,6 +30,11 @@ Github pages link https://p15bala.github.io/D3js-uk-political-donations/full-viz
 
 ![2](2.png)
 
-Λειτουργία μεγεθυντικού φακού
+Λειτουργία μεγεθυντικού φακού:
 
 ![3](3.png)
+
+
+### Εργαλία ανάπτυξης
+
+Για την ανάπτυξη της εργασίας χρησιμοποιήθηκε η πλατφόρμα του github και η λειτουργία github pages.Έγινε χρήση των γλωσσών javascript, HTML και CSS.
