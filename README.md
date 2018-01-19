@@ -15,7 +15,7 @@ Github pages link https://p15bala.github.io/D3js-uk-political-donations/full-viz
 
 ### Διαδικασία ανάπτυξης 
 
-Αρχικά έγινε αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα αλλα και στα αντίστοιχα 3 πεδία της ομαδοποίησης Split by party ενω προστέθηκε και ήχος στο πάτημα των κουμπιών ομαδοποίησης δεδομένων.Το τελευταίο πραγματοποιήθηκε δημιουργόντας μια νέα μεταβλητή `var bsound = new Audio("ButtonSound.mp3");` στο αρχείο [chart.js](https://github.com/p15bala/D3js-uk-political-donations/blob/master/chart.js) και βάζοντας τη γραμμή κώδικα `bsound.play();` σε κάθε περίπτωση της συνάρτησης `function transition(name)`.Στη συνέχεια έγινε ξανα τροποποίηση του αρχείου [chart.js](https://github.com/p15bala/D3js-uk-political-donations/blob/master/chart.js) και προστέθηκε η γραμμή 
+Αρχικά,έγινε αλλαγή των χρωμάτων στις μπάλες με τα δεδομένα αλλα και στα αντίστοιχα 3 πεδία της ομαδοποίησης Split by party ενω προστέθηκε και ήχος στο πάτημα των κουμπιών ομαδοποίησης δεδομένων.Το τελευταίο πραγματοποιήθηκε δημιουργόντας μια νέα μεταβλητή `var bsound = new Audio("ButtonSound.mp3");` στο αρχείο [chart.js](https://github.com/p15bala/D3js-uk-political-donations/blob/master/chart.js) και βάζοντας τη γραμμή κώδικα `bsound.play();` σε κάθε περίπτωση της συνάρτησης `function transition(name)`.Στη συνέχεια έγινε ξανα τροποποίηση του αρχείου [chart.js](https://github.com/p15bala/D3js-uk-political-donations/blob/master/chart.js) και προστέθηκε η γραμμή 
 
 `.on("click", function(d) { window.open("http://www.google.com/search?q=" + d.donor)});` 
 
