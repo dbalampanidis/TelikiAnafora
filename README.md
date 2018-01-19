@@ -22,4 +22,4 @@ Github pages link https://p15bala.github.io/D3js-uk-political-donations/full-viz
 δίνοντας τη δυνατότητα με το πάτημα μιας μπάλας,να γίνεται αναζήτηση πληροφοριών του αντίστοιχου δωρητή στο Google.
 
 Στο τρίτο παραδοτέο της εργασίας μας ζητήθηκε να προσαρμόσουμε τις πληροφορίες της ιστοσελίδας στις ανάγκες των αναγνωστών με προβλήματα όρασης, αξιοποιώντας τις δυνατότητες της javascript για λειτουργίες μεγένθυνσης κειμένου και text-to-speech.Πρώτα προστέθηκε η γραμμή `var TextToSpeech = new SpeechSynthesisUtterance("The Donor is " + donor + " and he donated " + amount + " british pounds");
-	window.speechSynthesis.speak(TextToSpeech);`  στον κώδικα [chart.js](https://github.com/p15bala/D3js-uk-political-donations/blob/master/chart.js) ώστε το ποντίκι να λειτουργεί και ως μεγεθυντικός φακός όταν μεταφέρεται επάνω από λέξεις του κειμένου.
+	window.speechSynthesis.speak(TextToSpeech);`  στον κώδικα [chart.js](https://github.com/p15bala/D3js-uk-political-donations/blob/master/chart.js) ώστε όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή, να ακούγεται η ονομασία του δωρητή και το ποσό της δωρεάς.
