@@ -23,3 +23,7 @@ Github pages link https://p15bala.github.io/D3js-uk-political-donations/full-viz
 
 Στο τρίτο παραδοτέο της εργασίας μας ζητήθηκε να προσαρμόσουμε τις πληροφορίες της ιστοσελίδας στις ανάγκες των αναγνωστών με προβλήματα όρασης, αξιοποιώντας τις δυνατότητες της javascript για λειτουργίες μεγένθυνσης κειμένου και text-to-speech.Πρώτα προστέθηκε η γραμμή `var TextToSpeech = new SpeechSynthesisUtterance("The Donor is " + donor + " and he donated " + amount + " british pounds");
 	window.speechSynthesis.speak(TextToSpeech);`  στο αρχείο [chart.js](https://github.com/p15bala/D3js-uk-political-donations/blob/master/chart.js) ώστε όταν το ποντίκι βρίσκεται μέσα στην μπαλα κάποιου δωρητή, να ακούγεται η ονομασία του δωρητή και το ποσό της δωρεάς.Στη συνέχεια έγιναν αλλαγές στο αρχείο [full-viz.html](https://github.com/p15bala/D3js-uk-political-donations/blob/master/full-viz.html) έτσι ώστε το ποντίκι να λειτουργεί ως μεγεθυντικός φακός όταν μεταφέρεται επάνω από λέξεις του κειμένου.
+	
+### Ενδεικτικές οθόνες 
+
+
