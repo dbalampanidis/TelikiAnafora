@@ -26,4 +26,5 @@ Github pages link https://p15bala.github.io/D3js-uk-political-donations/full-viz
 	
 ### Ενδεικτικές οθόνες 
 
+![1](1.png)
 
