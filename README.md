@@ -12,3 +12,5 @@ Github pages link https://p15bala.github.io/D3js-uk-political-donations/full-viz
 ### Εισαγωγή
 
 Σκοπός της εργασίας ήταν να γνωρίσουμε τη βιβλιοθήκη D3 της javascript (οπτικοποίηση δεδομένων), χρησιμοποιώντας παράλληλα τις σελίδες github pages.Η εργασία βασίστηκε στο σχετικό [αποθετήριο του github](https://github.com/ioniodi/D3js-uk-political-donations) το οποίο [οπτικοποιεί](https://ioniodi.github.io/D3js-uk-political-donations/full-viz.html) δεδομένα δωρεών που έχουν γίνει σε πολιτικά κόμματα της Μεγάλης Βρετανίας.
+
+#f02233
