@@ -3,9 +3,9 @@
 ## Μπαλαμπανίδης Δανιήλ Π2015147
 ### Σύνοψη: 
 
-Repository link https://github.com/p15bala/D3js-uk-political-donations
+Repository link https://github.com/dbalampanidis/D3js-uk-political-donations
 
-Github pages link https://p15bala.github.io/D3js-uk-political-donations/full-viz
+Github pages link https://dbalampanidis.github.io/D3js-uk-political-donations/
 
 Σχετικό αποθετήριο github link https://github.com/ioniodi/D3js-uk-political-donations
 
